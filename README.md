@@ -6,8 +6,11 @@ Torpedo game on network. The ships positions comes from .txt files and it is onl
 ##### It looks like this: (for example)
 
 shipType  X Coordinate Y Coordinate
+
 ("X" - One field size ship)
+
 ("I" - 3 field size vertical ship)
+
 ("-" - 3 field size horizontal ship)
 ```
 X 3 3
